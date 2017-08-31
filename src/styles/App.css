@@ -1,0 +1,31 @@
+.App {
+  margin: 10px;
+}
+
+.card{
+   margin: 00px 0px 10px 21px;
+	float: right;
+}
+
+.form{
+  text-align: center;
+}
+
+li{
+	font-size: 12px;
+
+}
+
+h3{
+	font-size: 16px;
+	
+}
+
+h4{
+	font-size: 12px;
+}
+
+#root{
+	max-width: 900px;
+	margin: 0 auto;
+}
